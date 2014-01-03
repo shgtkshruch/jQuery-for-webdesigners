@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+.header {
+  background-color: #000;
+  border-bottom: 8px solid #91b280;
+  padding: 40px 0 0;
+}
+.menu {
+  height: 38px;
+  margin: 0;
+}
+li {
+  list-style: none;
+  float: left;
+  margin-right: 10px;
+}
+li a {
+  display: block;
+}
